@@ -19,10 +19,9 @@
 </script>
 
 <main>
-    <h1>Forgotten Stars</h1>
-    <h4>Rematch</h4>
-    <Button text="Singleplayer" action={onPlay} />
-    <Button text="Multiplayer" />
+    <h1>FORGOTTEN STARS</h1>
+    <h4>CIVIL WAR</h4>
+    <Button text="Play Online" action={onPlay} />
     <Button text="Tutorial" />
     <Button text="Settings" />
 </main>
