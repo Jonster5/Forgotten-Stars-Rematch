@@ -1,0 +1,9 @@
+{
+    "name": "SL Fighter",
+    "width": 64,
+    "height": 42,
+
+    "img": "sl_fighter",
+    "normal": "sl_fighter_normal",
+    "specular": "sl_fighter_specular"
+}
